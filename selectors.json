@@ -28,8 +28,7 @@
   ".video-ad",
   ".ad-interrupt",
   ".fc-ab-root",
-  ".sp_message_container"
-  "/* The Independent (US & UK) Sticky Video */",
+  ".sp_message_container",
   ".video-sticky-video",
   ".sticky-video-active",
   "#dr_video_sticky",
