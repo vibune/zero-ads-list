@@ -28,14 +28,5 @@
   ".video-ad",
   ".ad-interrupt",
   ".fc-ab-root",
-  ".sp_message_container",
-  ".jw-flag-floating",
-  ".jw-float-on-scroll",
-  ".sticky-player",
-  ".floating-video",
-  "[class*='sticky-video']",
-  ".teads-inread",
-  ".teads-ui",
-  "[id^='teads-']",
-  ".connatix-player"
+  ".sp_message_container"
 ]
