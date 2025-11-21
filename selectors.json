@@ -1,24 +1,17 @@
 [
-  "/* Google AdSense & Ad Manager */",
   ".adsbygoogle",
   "[id^='div-gpt-ad']",
   "[id^='google_ads_iframe']",
   "[id^='google_ads_']",
   ".google-auto-placed",
-
-  "/* Taboola (Common 'Chumbox' content farm) */",
   ".trc_rbox",
   "#taboola-below-article-thumbnails",
   "[id^='taboola-']",
   ".trc_related_container",
-
-  "/* Outbrain (Common 'Chumbox' content farm) */",
   ".outbrain_widget",
   ".ob-widget",
   ".ob_container",
   ".OUTBRAIN",
-
-  "/* Generic IAB Standard Containers */",
   ".ad-container",
   ".ad-slot",
   ".ad-wrapper",
@@ -26,22 +19,14 @@
   ".banner-ad",
   ".sidebar-ad",
   ".box-ad",
-
-  "/* Sticky/Floating Bottom Ads (High annoyance factor) */",
   ".sticky-ad",
   ".ad-sticky",
   ".bottom-ad-bar",
   ".footer-ad",
-  
-  "/* Semantic Targeting (Modern Accessibility Standards) */",
   "[aria-label='Advertisement']",
   "[aria-label='Sponsored']",
-  
-  "/* Video Ad Wrappers */",
   ".video-ad",
   ".ad-interrupt",
-  
-  "/* Anti-Adblock Walls (Often overlay content) */",
   ".fc-ab-root",
   ".sp_message_container"
 ]
