@@ -29,4 +29,23 @@
   ".ad-interrupt",
   ".fc-ab-root",
   ".sp_message_container"
+  "/* The Independent (US & UK) Sticky Video */",
+  ".video-sticky-video",
+  ".sticky-video-active",
+  "#dr_video_sticky",
+  ".video-top-container.sticky",
+  
+  "/* Generic Sticky/Floating Video Players (JW Player, Brightcove, etc) */",
+  ".jw-flag-floating",
+  ".jw-float-on-scroll",
+  ".video-docked",
+  ".sticky-player",
+  ".floating-video",
+  "[class*='sticky-video']",
+  
+  "/* Teads & Outstream (Pop-in videos between paragraphs) */",
+  ".teads-inread",
+  ".teads-ui",
+  "[id^='teads-']",
+  ".connatix-player"
 ]
