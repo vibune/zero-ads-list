@@ -31,7 +31,6 @@
   ".sp_message_container",
   ".jw-flag-floating",
   ".jw-float-on-scroll",
-  ".video-docked",
   ".sticky-player",
   ".floating-video",
   "[class*='sticky-video']",
